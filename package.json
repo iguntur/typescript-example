@@ -1,0 +1,32 @@
+{
+  "name": "typescript-lesson",
+  "version": "0.0.0",
+  "description": "My typescript lesson",
+  "license": "MIT",
+  "repository": "iguntur/typescript-lesson",
+  "author": {
+    "name": "Guntur Poetra",
+    "email": "poetra.guntur@gmail.com",
+    "url": "http://guntur.starmediateknik.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
