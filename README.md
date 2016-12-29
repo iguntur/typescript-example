@@ -2,14 +2,20 @@
 
 > My typescript lesson
 
-
 ## Install
 
-```
-$ npm install -g typescript
+```bash
+$ git clone https://github.com/iguntur/typescript-example.git
+$ cd typescript-example
 ```
 
+```js
+$ npm install
+```
 
+```bash
+$ npm run build
+```
 
 
 ## License
